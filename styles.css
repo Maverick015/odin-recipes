@@ -1,0 +1,28 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+div {
+    margin: 2%;
+}
+
+img {
+    width: auto;
+    height: auto;
+}
+
+a {
+    background-color: lightskyblue;
+    border-style:ridge;
+    text-decoration: none;
+    padding: 1%;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
